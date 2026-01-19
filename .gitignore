@@ -1,0 +1,32 @@
+# Virtualenv
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest
+.pytest_cache/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Local DB / logs
+*.log
+*.sqlite3
+*.db
+
+# Alembic cache (если вдруг появится)
+alembic/__pycache__/

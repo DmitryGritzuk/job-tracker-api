@@ -63,14 +63,3 @@ API Endpoints
 	•	GET /applications/{id}
 	•	PATCH /applications/{id}
 	•	DELETE /applications/{id}
-
-    ---
-
-## ✅ Как залить README на GitHub
-
-В терминале:
-
-```bash
-git add README.md
-git commit -m "Update README"
-git push
